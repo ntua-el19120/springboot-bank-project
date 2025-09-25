@@ -5,7 +5,7 @@ It simulates a simple banking system with accounts, beneficiaries, and transacti
 
 ## Project Documentation
 The full project documentation (structure, classes, and endpoints) is provided in the PDF:  
-👉 [ProjectNETcompany.pdf](./ProjectNETcompany.pdf)  
+[ProjectNETcompany.pdf](./ProjectNETcompany.pdf)  
 
 This document includes:
 - Explanation of the folder structure (`Model`, `CSVLoaders`, `Controllers`, `Routes`)
